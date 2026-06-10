@@ -5,4 +5,4 @@ keep_vars = true
 
 #[[kv_namespaces]]
 binding = "edge"			#KV绑定名默认不可修改
-#id = ""				#KV数据库id
+id = "0553f45f24ab427795be8fe43768309c"				#KV数据库id
